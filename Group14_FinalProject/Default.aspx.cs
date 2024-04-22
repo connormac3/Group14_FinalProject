@@ -13,5 +13,20 @@ namespace Group14_FinalProject
         {
 
         }
+
+        protected void LeetCodeEasy_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("LeetCodeEasy.aspx");
+        }
+
+        protected void LeetCodeMedium_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("LeetCodeMedium.aspx");
+        }
+
+        protected void LeetCodeHard_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("LeetCodeHard.aspx");
+        }
     }
 }
