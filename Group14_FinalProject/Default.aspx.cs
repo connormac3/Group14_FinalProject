@@ -16,17 +16,17 @@ namespace Group14_FinalProject
 
         protected void LeetCodeEasy_Click(object sender, EventArgs e)
         {
-            Response.Redirect("LeetCodeEasy.aspx");
+            Response.Redirect("EasyProblem.aspx");
         }
 
         protected void LeetCodeMedium_Click(object sender, EventArgs e)
         {
-            Response.Redirect("LeetCodeMedium.aspx");
+            Response.Redirect("MediumProblem.aspx");
         }
 
         protected void LeetCodeHard_Click(object sender, EventArgs e)
         {
-            Response.Redirect("LeetCodeHard.aspx");
+            Response.Redirect("HardProblem.aspx");
         }
     }
 }
