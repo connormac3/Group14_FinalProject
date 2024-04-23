@@ -1,4 +1,15 @@
-﻿using System;
+﻿/*
+# Name: Ryan Dew
+# email: dewrm@mail.uc.edu
+# Assignment Title: Final Project
+# Due Date: 4/23/2024
+# Course: IS 3050
+# Semester/Year: 3rd
+# Brief Description: This project displays leet code solutions (easy, medium and [hard])
+# Citations: Chat GPT
+# Anything else that's relevant:None
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
